@@ -60,3 +60,9 @@
 ---
 
 Если у вас есть вопросы или предложения, пожалуйста, создайте запрос в разделе **Issues** на GitHub.
+
+---
+## Tags:
+
+discord, youtube, unblocker, proxy, bypass, censorship, circumvention, simple, easy, user-friendly, zapret, alternative, lightweight, tool, utility, open-source, alpha, v0.0.1, networking, discord bypass, дискорд обход, youtube bypass, ютуб обход, discord unblocker, дискорд разблокировка, youtube unblocker, ютуб разблокировка
+
